@@ -1,0 +1,12 @@
+[
+  {
+    "hash": "fingerprint1",
+    "device": "Android",
+    "browser": "Chrome"
+  },
+  {
+    "hash": "fingerprint2",
+    "device": "iOS",
+    "browser": "Safari"
+  }
+]
