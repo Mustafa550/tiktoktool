@@ -1,0 +1,24 @@
+{
+  "proxies": [],
+  "vpns": [],
+  "captcha_api": {
+    "enabled": false,
+    "service": "none",
+    "api_key": ""
+  },
+  "report_reasons_tr": [
+    "Uygunsuz içerik",
+    "Nefret söylemi",
+    "Şiddet içerik",
+    "Yasa dışı faaliyet",
+    "Spam"
+  ],
+  "report_reasons_en": [
+    "Inappropriate content",
+    "Hate speech",
+    "Violent content",
+    "Illegal activity",
+    "Spam"
+  ],
+  "vip_proxies": []
+}
